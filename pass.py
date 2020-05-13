@@ -14,7 +14,7 @@ splespce = caps + small + specials + numbs
 
 
 
-#print(*splespce, sep='')                           #to print it continuously
+#print(*splespce, sep='')                           #to print it continuously like a string
 
 
 
